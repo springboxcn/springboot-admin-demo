@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/admin-client/pom.xml" />
         <option value="$PROJECT_DIR$/bootadmin/pom.xml" />
+        <option value="$PROJECT_DIR$/bootadmin-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-client-build-info/pom.xml" />
       </list>
     </option>
   </component>
